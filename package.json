@@ -1,0 +1,11 @@
+{
+  "name": "trog",
+  "version": "0.0.0",
+  "description": "Recursively iterate through an object",
+  "main": "index.js",
+  "module": "index.mjs",
+  "jsnext:main": "index.mjs",
+  "repository": "git@github.com:barneycarroll/trog.git",
+  "author": "Barney Carroll <barney.carroll@gmail.com>",
+  "license": "MIT"
+}
